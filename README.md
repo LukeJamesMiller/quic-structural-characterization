@@ -143,4 +143,4 @@ Heron) are introduced in:
 > [arXiv:2604.18841](https://arxiv.org/abs/2604.18841)
 
 This repository contains the structural and statistical characterization of
-the representation; citation information in [CITATION.cff](CITATION.cff).
+the representation; citation information in [CITATION.cff](CITATION.cff). This is not a full representation of all work and experiments conducted, but a public-facing repository demonstrating the key findings.

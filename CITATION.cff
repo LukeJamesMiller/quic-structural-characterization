@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "QuIC Structural Characterization"
+type: software
+authors:
+  - family-names: Miller
+    given-names: Luke
+version: 0.1.0
+date-released: "2026-08-21"
+abstract: >-
+  Research implementation and analysis of the QuIC quantum graph feature
+  map: exact circuit theory (cut-phase and boundary-transform identities,
+  motif closure of the purity response, defect-layer certificates),
+  exhaustive-census structural experiments, exact cospectral witnesses,
+  and finite-shot readout studies.
+references:
+  - type: conference-paper
+    title: >-
+      QuIC: A Training-Free Quantum Graph Embedding from Ideal Analysis to
+      Practical Hardware Evaluation
+    authors:
+      - family-names: Miller
+        given-names: Luke
+      - family-names: Lee
+        given-names: Yugyung
+    year: 2026
+    conference:
+      name: "IEEE International Conference on Quantum Computing and Engineering (QCE)"
+    url: "https://arxiv.org/abs/2604.18841"

@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quic-structural-feature-map"
+version = "0.1.0"
+description = "Which graph structure is encoded, linearly accessible, and statistically recoverable in a shallow phase-encoded quantum graph feature map"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Luke Miller" }]
+dependencies = [
+    "numpy>=1.24",
+    "networkx>=3.1",
+    "scipy>=1.10",
+    "scikit-learn>=1.3",
+    "qiskit>=1.0",
+]
+
+[project.optional-dependencies]
+notebooks = ["matplotlib>=3.7", "pandas>=2.0", "jupyter"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,2139 @@
+{
+ "14": {
+  "population": "connected cubic graphs, n=14, nauty-geng -c -d3 -D3 14",
+  "census_size": 509,
+  "census_graph6_sha256": "94ddc5d34ad98bfe1b584d22fa19df798f22ee31d111ec8db63c8a0fa2db9ad9",
+  "cospectrality": "exact integer trace tuples (no tolerance)",
+  "groups": [
+   {
+    "census_indices": [
+     79,
+     458
+    ],
+    "graph6": [
+     "M??CB@WpCcB_H_IO?",
+     "M?AA@_ggU@B_E_P_?"
+    ],
+    "differing_invariants": [
+     "aut_order"
+    ],
+    "invariants": {
+     "79": {
+      "C3": 2,
+      "C4": 1,
+      "C5": 2,
+      "C6": 9,
+      "C7": 8,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 204,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 7,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "458": {
+      "C3": 2,
+      "C4": 1,
+      "C5": 2,
+      "C6": 9,
+      "C7": 8,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 204,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 7,
+      "clique_number": 3,
+      "aut_order": 2
+     }
+    },
+    "min_quic_l1_separation": 3.908104264163164e-07
+   },
+   {
+    "census_indices": [
+     201,
+     203
+    ],
+    "graph6": [
+     "M??CBABsAWEOJ?F??",
+     "M??CBABsASE_J?F??"
+    ],
+    "differing_invariants": [
+     "wiener",
+     "aut_order"
+    ],
+    "invariants": {
+     "201": {
+      "C3": 1,
+      "C4": 3,
+      "C5": 3,
+      "C6": 10,
+      "C7": 3,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 209,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 7,
+      "clique_number": 3,
+      "aut_order": 12
+     },
+     "203": {
+      "C3": 1,
+      "C4": 3,
+      "C5": 3,
+      "C6": 10,
+      "C7": 3,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 208,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 7,
+      "clique_number": 3,
+      "aut_order": 6
+     }
+    },
+    "min_quic_l1_separation": 1.691932145237505e-05
+   },
+   {
+    "census_indices": [
+     234,
+     239
+    ],
+    "graph6": [
+     "M?AA@BOk?sGWBOJ??",
+     "M?AA@BOi@SGoDOEO?"
+    ],
+    "differing_invariants": [
+     "aut_order"
+    ],
+    "invariants": {
+     "234": {
+      "C3": 1,
+      "C4": 2,
+      "C5": 4,
+      "C6": 4,
+      "C7": 14,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 198,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 7,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "239": {
+      "C3": 1,
+      "C4": 2,
+      "C5": 4,
+      "C6": 4,
+      "C7": 14,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 198,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 7,
+      "clique_number": 3,
+      "aut_order": 2
+     }
+    },
+    "min_quic_l1_separation": 5.8681035060964186e-08
+   }
+  ]
+ },
+ "16": {
+  "population": "connected cubic graphs, n=16, nauty-geng -c -d3 -D3 16",
+  "census_size": 4060,
+  "census_graph6_sha256": "66eebea498e459377c3b90d3a0c5102a1dc320b62d720338b3ff1e78f2fcc3dc",
+  "cospectrality": "exact integer trace tuples (no tolerance)",
+  "groups": [
+   {
+    "census_indices": [
+     1,
+     5
+    ],
+    "graph6": [
+     "O????B_wCoI_K_BO@W?M?",
+     "O????B_wCoI_CoJ?@W?M?"
+    ],
+    "differing_invariants": [
+     "wiener",
+     "aut_order"
+    ],
+    "invariants": {
+     "1": {
+      "C3": 0,
+      "C4": 6,
+      "C5": 0,
+      "C6": 13,
+      "C7": 0,
+      "girth": 4,
+      "diameter": 5,
+      "radius": 4,
+      "wiener": 304,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 12
+     },
+     "5": {
+      "C3": 0,
+      "C4": 6,
+      "C5": 0,
+      "C6": 13,
+      "C7": 0,
+      "girth": 4,
+      "diameter": 5,
+      "radius": 4,
+      "wiener": 306,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 48
+     }
+    },
+    "min_quic_l1_separation": 1.679747743454524e-05
+   },
+   {
+    "census_indices": [
+     24,
+     35
+    ],
+    "graph6": [
+     "O????B_sCWKOAoB_EG?i?",
+     "O????B_sCWGWB_AoE_@a?"
+    ],
+    "differing_invariants": [
+     "aut_order"
+    ],
+    "invariants": {
+     "24": {
+      "C3": 0,
+      "C4": 5,
+      "C5": 0,
+      "C6": 10,
+      "C7": 0,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 4,
+      "wiener": 292,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 4
+     },
+     "35": {
+      "C3": 0,
+      "C4": 5,
+      "C5": 0,
+      "C6": 10,
+      "C7": 0,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 4,
+      "wiener": 292,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 8
+     }
+    },
+    "min_quic_l1_separation": 6.483969462589125e-08
+   },
+   {
+    "census_indices": [
+     82,
+     885
+    ],
+    "graph6": [
+     "O???CB?[AQS_GoDG@o?s?",
+     "O???C@_cMOI_CoBODO@K?"
+    ],
+    "differing_invariants": [
+     "wiener",
+     "aut_order"
+    ],
+    "invariants": {
+     "82": {
+      "C3": 0,
+      "C4": 1,
+      "C5": 4,
+      "C6": 10,
+      "C7": 8,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 274,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 2
+     },
+     "885": {
+      "C3": 0,
+      "C4": 1,
+      "C5": 4,
+      "C6": 10,
+      "C7": 8,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 273,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 2.660122868074664e-07
+   },
+   {
+    "census_indices": [
+     83,
+     884
+    ],
+    "graph6": [
+     "O???CB?[AQS_Go@gB_?s?",
+     "O???C@_cMOI_CoHODO?[?"
+    ],
+    "differing_invariants": [
+     "wiener",
+     "aut_order"
+    ],
+    "invariants": {
+     "83": {
+      "C3": 0,
+      "C4": 1,
+      "C5": 3,
+      "C6": 11,
+      "C7": 12,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 272,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 2
+     },
+     "884": {
+      "C3": 0,
+      "C4": 1,
+      "C5": 3,
+      "C6": 11,
+      "C7": 12,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 271,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 2.6598285212545296e-07
+   },
+   {
+    "census_indices": [
+     106,
+     632
+    ],
+    "graph6": [
+     "O???CB?oHaDGX?D_@o?s?",
+     "O???C@_F?wIOY?H_OWCB?"
+    ],
+    "differing_invariants": [
+     "radius",
+     "wiener",
+     "aut_order"
+    ],
+    "invariants": {
+     "106": {
+      "C3": 2,
+      "C4": 5,
+      "C5": 0,
+      "C6": 8,
+      "C7": 4,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 4,
+      "wiener": 312,
+      "node_connectivity": 2,
+      "edge_connectivity": 2,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 4
+     },
+     "632": {
+      "C3": 2,
+      "C4": 5,
+      "C5": 0,
+      "C6": 8,
+      "C7": 4,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 313,
+      "node_connectivity": 2,
+      "edge_connectivity": 2,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 8
+     }
+    },
+    "min_quic_l1_separation": 1.676721885060151e-05
+   },
+   {
+    "census_indices": [
+     259,
+     268
+    ],
+    "graph6": [
+     "O???C@_eCoI_OoB_CW@H?",
+     "O???C@_eCoGcS_I_?w@I?"
+    ],
+    "differing_invariants": [],
+    "invariants": {
+     "259": {
+      "C3": 1,
+      "C4": 4,
+      "C5": 1,
+      "C6": 7,
+      "C7": 10,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 291,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     },
+     "268": {
+      "C3": 1,
+      "C4": 4,
+      "C5": 1,
+      "C6": 7,
+      "C7": 10,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 291,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     }
+    },
+    "min_quic_l1_separation": 1.048263781296624e-07
+   },
+   {
+    "census_indices": [
+     282,
+     1494
+    ],
+    "graph6": [
+     "O???C@_eEGBCS_B_CW@I?",
+     "O??CA?_eF?J?L?Ag?w?J?"
+    ],
+    "differing_invariants": [
+     "wiener",
+     "aut_order"
+    ],
+    "invariants": {
+     "282": {
+      "C3": 0,
+      "C4": 2,
+      "C5": 2,
+      "C6": 9,
+      "C7": 16,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 273,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 2
+     },
+     "1494": {
+      "C3": 0,
+      "C4": 2,
+      "C5": 2,
+      "C6": 9,
+      "C7": 16,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 272,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 3.403155464403327e-08
+   },
+   {
+    "census_indices": [
+     320,
+     3059
+    ],
+    "graph6": [
+     "O???C@_eEAAcS_BODO@K?",
+     "O??CA?oID@WAT?EO@o?M?"
+    ],
+    "differing_invariants": [],
+    "invariants": {
+     "320": {
+      "C3": 1,
+      "C4": 1,
+      "C5": 3,
+      "C6": 9,
+      "C7": 10,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 279,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "3059": {
+      "C3": 1,
+      "C4": 1,
+      "C5": 3,
+      "C6": 9,
+      "C7": 10,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 279,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 2.7849897939224276e-07
+   },
+   {
+    "census_indices": [
+     457,
+     516
+    ],
+    "graph6": [
+     "O???C@_UEGAoL?GW@WCS?",
+     "O???C@_UAgEOgGa_?w?Y?"
+    ],
+    "differing_invariants": [
+     "radius",
+     "wiener"
+    ],
+    "invariants": {
+     "457": {
+      "C3": 1,
+      "C4": 2,
+      "C5": 2,
+      "C6": 9,
+      "C7": 7,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 284,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "516": {
+      "C3": 1,
+      "C4": 2,
+      "C5": 2,
+      "C6": 9,
+      "C7": 7,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 4,
+      "wiener": 285,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 1.0698766850692603e-06
+   },
+   {
+    "census_indices": [
+     476,
+     3741
+    ],
+    "graph6": [
+     "O???C@_UEGOWCoF?Co@P?",
+     "O?AA@?OaEODA[?@o?k?d?"
+    ],
+    "differing_invariants": [],
+    "invariants": {
+     "476": {
+      "C3": 2,
+      "C4": 2,
+      "C5": 2,
+      "C6": 7,
+      "C7": 8,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 294,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "3741": {
+      "C3": 2,
+      "C4": 2,
+      "C5": 2,
+      "C6": 7,
+      "C7": 8,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 294,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 9.67402240041577e-08
+   },
+   {
+    "census_indices": [
+     479,
+     967
+    ],
+    "graph6": [
+     "O???C@_UEGCKDOD_PO@S?",
+     "O???C@_cKQGgQ_I_Ao@g?"
+    ],
+    "differing_invariants": [],
+    "invariants": {
+     "479": {
+      "C3": 1,
+      "C4": 2,
+      "C5": 1,
+      "C6": 8,
+      "C7": 11,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 280,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "967": {
+      "C3": 1,
+      "C4": 2,
+      "C5": 1,
+      "C6": 8,
+      "C7": 11,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 280,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 4.1042364806334736e-08
+   },
+   {
+    "census_indices": [
+     494,
+     568
+    ],
+    "graph6": [
+     "O???C@_UBGEOcG`O@W?[?",
+     "O???C@_UAKE_d?GW@WCS?"
+    ],
+    "differing_invariants": [
+     "wiener"
+    ],
+    "invariants": {
+     "494": {
+      "C3": 1,
+      "C4": 2,
+      "C5": 2,
+      "C6": 8,
+      "C7": 8,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 282,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     },
+     "568": {
+      "C3": 1,
+      "C4": 2,
+      "C5": 2,
+      "C6": 8,
+      "C7": 8,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 281,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     }
+    },
+    "min_quic_l1_separation": 1.066002591274976e-06
+   },
+   {
+    "census_indices": [
+     582,
+     3061,
+     3800
+    ],
+    "graph6": [
+     "O???C@_UAKECh?DOPO?U?",
+     "O??CA?oID@WAR?E_Ag?M?",
+     "O?AA@?OaEGKAL?EO@S?F?"
+    ],
+    "differing_invariants": [
+     "wiener"
+    ],
+    "invariants": {
+     "582": {
+      "C3": 1,
+      "C4": 1,
+      "C5": 4,
+      "C6": 9,
+      "C7": 7,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 283,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "3061": {
+      "C3": 1,
+      "C4": 1,
+      "C5": 4,
+      "C6": 9,
+      "C7": 7,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 282,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "3800": {
+      "C3": 1,
+      "C4": 1,
+      "C5": 4,
+      "C6": 9,
+      "C7": 7,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 283,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 4.861515558810402e-08
+   },
+   {
+    "census_indices": [
+     583,
+     3067
+    ],
+    "graph6": [
+     "O???C@_UAKECD_h?PG?U?",
+     "O??CA?oID@WAPODO@o?s?"
+    ],
+    "differing_invariants": [
+     "wiener"
+    ],
+    "invariants": {
+     "583": {
+      "C3": 2,
+      "C4": 2,
+      "C5": 2,
+      "C6": 7,
+      "C7": 6,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 4,
+      "wiener": 291,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     },
+     "3067": {
+      "C3": 2,
+      "C4": 2,
+      "C5": 2,
+      "C6": 7,
+      "C7": 6,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 4,
+      "wiener": 290,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     }
+    },
+    "min_quic_l1_separation": 3.8342746123668545e-07
+   },
+   {
+    "census_indices": [
+     586,
+     1502
+    ],
+    "graph6": [
+     "O???C@_UAKAcd?a_DG@E?",
+     "O??CA?_eF?I_J?E_?[?J?"
+    ],
+    "differing_invariants": [
+     "radius",
+     "wiener",
+     "aut_order"
+    ],
+    "invariants": {
+     "586": {
+      "C3": 0,
+      "C4": 2,
+      "C5": 4,
+      "C6": 9,
+      "C7": 8,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 4,
+      "wiener": 281,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 4
+     },
+     "1502": {
+      "C3": 0,
+      "C4": 2,
+      "C5": 4,
+      "C6": 9,
+      "C7": 8,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 279,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 2
+     }
+    },
+    "min_quic_l1_separation": 1.161439396919852e-06
+   },
+   {
+    "census_indices": [
+     594,
+     601
+    ],
+    "graph6": [
+     "O???C@_UEAU?BGE_?w@K?",
+     "O???C@_UEAQ_BGE_CW@K?"
+    ],
+    "differing_invariants": [],
+    "invariants": {
+     "594": {
+      "C3": 1,
+      "C4": 2,
+      "C5": 2,
+      "C6": 6,
+      "C7": 11,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 280,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "601": {
+      "C3": 1,
+      "C4": 2,
+      "C5": 2,
+      "C6": 6,
+      "C7": 11,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 280,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 1.917133245874259e-08
+   },
+   {
+    "census_indices": [
+     710,
+     711
+    ],
+    "graph6": [
+     "O???C@_cSaHCM?H_@oAK?",
+     "O???C@_cSaHCT?H_@o@S?"
+    ],
+    "differing_invariants": [
+     "wiener",
+     "aut_order"
+    ],
+    "invariants": {
+     "710": {
+      "C3": 3,
+      "C4": 6,
+      "C5": 3,
+      "C6": 7,
+      "C7": 6,
+      "girth": 3,
+      "diameter": 7,
+      "radius": 4,
+      "wiener": 360,
+      "node_connectivity": 1,
+      "edge_connectivity": 1,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 16
+     },
+     "711": {
+      "C3": 3,
+      "C4": 6,
+      "C5": 3,
+      "C6": 7,
+      "C7": 6,
+      "girth": 3,
+      "diameter": 7,
+      "radius": 4,
+      "wiener": 362,
+      "node_connectivity": 1,
+      "edge_connectivity": 1,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 8
+     }
+    },
+    "min_quic_l1_separation": 1.6780628239123042e-05
+   },
+   {
+    "census_indices": [
+     817,
+     1130
+    ],
+    "graph6": [
+     "O???C@_WM_PGHOD_BO?[?",
+     "O???C@_SMAPGJ?H_BO?k?"
+    ],
+    "differing_invariants": [],
+    "invariants": {
+     "817": {
+      "C3": 3,
+      "C4": 4,
+      "C5": 0,
+      "C6": 6,
+      "C7": 5,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 4,
+      "wiener": 311,
+      "node_connectivity": 2,
+      "edge_connectivity": 2,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 4
+     },
+     "1130": {
+      "C3": 3,
+      "C4": 4,
+      "C5": 0,
+      "C6": 6,
+      "C7": 5,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 4,
+      "wiener": 311,
+      "node_connectivity": 2,
+      "edge_connectivity": 2,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 4
+     }
+    },
+    "min_quic_l1_separation": 7.788299400764716e-07
+   },
+   {
+    "census_indices": [
+     936,
+     940
+    ],
+    "graph6": [
+     "O???C@_cKaHGT?I_@o@K?",
+     "O???C@_cKaHGP_M?@o@K?"
+    ],
+    "differing_invariants": [
+     "radius",
+     "aut_order"
+    ],
+    "invariants": {
+     "936": {
+      "C3": 1,
+      "C4": 4,
+      "C5": 2,
+      "C6": 9,
+      "C7": 6,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 4,
+      "wiener": 302,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     },
+     "940": {
+      "C3": 1,
+      "C4": 4,
+      "C5": 2,
+      "C6": 9,
+      "C7": 6,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 302,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 4
+     }
+    },
+    "min_quic_l1_separation": 1.6771102622353567e-05
+   },
+   {
+    "census_indices": [
+     1034,
+     1116
+    ],
+    "graph6": [
+     "O???C@_SMOSGJ?B_AW?k?",
+     "O???C@_SHWT?E_D_?wEA?"
+    ],
+    "differing_invariants": [],
+    "invariants": {
+     "1034": {
+      "C3": 2,
+      "C4": 3,
+      "C5": 0,
+      "C6": 5,
+      "C7": 8,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 4,
+      "wiener": 290,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     },
+     "1116": {
+      "C3": 2,
+      "C4": 3,
+      "C5": 0,
+      "C6": 5,
+      "C7": 8,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 4,
+      "wiener": 290,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     }
+    },
+    "min_quic_l1_separation": 7.595582498429826e-07
+   },
+   {
+    "census_indices": [
+     1035,
+     1123
+    ],
+    "graph6": [
+     "O???C@_SMOSGDOE_Co?[?",
+     "O???C@_SMAT?F?E_Co?M?"
+    ],
+    "differing_invariants": [
+     "aut_order"
+    ],
+    "invariants": {
+     "1035": {
+      "C3": 2,
+      "C4": 2,
+      "C5": 0,
+      "C6": 7,
+      "C7": 10,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 284,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     },
+     "1123": {
+      "C3": 2,
+      "C4": 2,
+      "C5": 0,
+      "C6": 7,
+      "C7": 10,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 284,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 4
+     }
+    },
+    "min_quic_l1_separation": 7.648032689562696e-07
+   },
+   {
+    "census_indices": [
+     1075,
+     1086
+    ],
+    "graph6": [
+     "O???C@_SJOP_cOE_Co?M?",
+     "O???C@_SJOCoB_d?BGCE?"
+    ],
+    "differing_invariants": [
+     "wiener"
+    ],
+    "invariants": {
+     "1075": {
+      "C3": 2,
+      "C4": 2,
+      "C5": 2,
+      "C6": 8,
+      "C7": 7,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 295,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "1086": {
+      "C3": 2,
+      "C4": 2,
+      "C5": 2,
+      "C6": 8,
+      "C7": 7,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 294,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 3.8906910251278274e-07
+   },
+   {
+    "census_indices": [
+     1181,
+     3517
+    ],
+    "graph6": [
+     "O???EA_EDAE_S_P_@c?S_",
+     "O??CA?oB@PT?oCD_AgAE?"
+    ],
+    "differing_invariants": [],
+    "invariants": {
+     "1181": {
+      "C3": 2,
+      "C4": 2,
+      "C5": 3,
+      "C6": 5,
+      "C7": 9,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 292,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "3517": {
+      "C3": 2,
+      "C4": 2,
+      "C5": 3,
+      "C6": 5,
+      "C7": 9,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 292,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 8.98784425608414e-08
+   },
+   {
+    "census_indices": [
+     1371,
+     1792
+    ],
+    "graph6": [
+     "O??CA?_sDOCgQ_EO?s?h?",
+     "O??CA?_eEGIOL?@g@K@Q?"
+    ],
+    "differing_invariants": [
+     "wiener"
+    ],
+    "invariants": {
+     "1371": {
+      "C3": 0,
+      "C4": 1,
+      "C5": 6,
+      "C6": 6,
+      "C7": 13,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 270,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 1
+     },
+     "1792": {
+      "C3": 0,
+      "C4": 1,
+      "C5": 6,
+      "C6": 6,
+      "C7": 13,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 269,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 5.364447772906386e-08
+   },
+   {
+    "census_indices": [
+     1496,
+     1570
+    ],
+    "graph6": [
+     "O??CA?_eF?J?H_Cg@g?J?",
+     "O??CA?_eF?CgCWCg@oAW?"
+    ],
+    "differing_invariants": [
+     "wiener",
+     "aut_order"
+    ],
+    "invariants": {
+     "1496": {
+      "C3": 0,
+      "C4": 2,
+      "C5": 5,
+      "C6": 5,
+      "C7": 12,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 276,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 1
+     },
+     "1570": {
+      "C3": 0,
+      "C4": 2,
+      "C5": 5,
+      "C6": 5,
+      "C7": 12,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 277,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 2
+     }
+    },
+    "min_quic_l1_separation": 2.677728127440981e-07
+   },
+   {
+    "census_indices": [
+     1505,
+     1506
+    ],
+    "graph6": [
+     "O??CA?_eF?I_H_E_@K?J?",
+     "O??CA?_eF?I_H_DO@K?T?"
+    ],
+    "differing_invariants": [
+     "wiener"
+    ],
+    "invariants": {
+     "1505": {
+      "C3": 0,
+      "C4": 2,
+      "C5": 5,
+      "C6": 5,
+      "C7": 12,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 275,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 1
+     },
+     "1506": {
+      "C3": 0,
+      "C4": 2,
+      "C5": 5,
+      "C6": 5,
+      "C7": 12,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 276,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 2.613642111923564e-07
+   },
+   {
+    "census_indices": [
+     1710,
+     1734
+    ],
+    "graph6": [
+     "O??CA?_eEGM?J?B_?[?b?",
+     "O??CA?_eEGM?Co?w@c@W?"
+    ],
+    "differing_invariants": [
+     "wiener"
+    ],
+    "invariants": {
+     "1710": {
+      "C3": 0,
+      "C4": 2,
+      "C5": 4,
+      "C6": 8,
+      "C7": 11,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 278,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 1
+     },
+     "1734": {
+      "C3": 0,
+      "C4": 2,
+      "C5": 4,
+      "C6": 8,
+      "C7": 11,
+      "girth": 4,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 277,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 2,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 1.153241946244092e-06
+   },
+   {
+    "census_indices": [
+     1898,
+     3951
+    ],
+    "graph6": [
+     "O??CA?_eECAoKGGW@gAW?",
+     "O?AA@?OaE?kGKOF?@S?L?"
+    ],
+    "differing_invariants": [
+     "wiener"
+    ],
+    "invariants": {
+     "1898": {
+      "C3": 3,
+      "C4": 2,
+      "C5": 3,
+      "C6": 5,
+      "C7": 6,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 4,
+      "wiener": 298,
+      "node_connectivity": 2,
+      "edge_connectivity": 2,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 4
+     },
+     "3951": {
+      "C3": 3,
+      "C4": 2,
+      "C5": 3,
+      "C6": 5,
+      "C7": 6,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 4,
+      "wiener": 300,
+      "node_connectivity": 2,
+      "edge_connectivity": 2,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 4
+     }
+    },
+    "min_quic_l1_separation": 1.2667735941580742e-06
+   },
+   {
+    "census_indices": [
+     2121,
+     3077
+    ],
+    "graph6": [
+     "O??CA?_ceOM?DO?w@c@W?",
+     "O??CA?oIC`[??sDO@oAW?"
+    ],
+    "differing_invariants": [
+     "wiener"
+    ],
+    "invariants": {
+     "2121": {
+      "C3": 1,
+      "C4": 1,
+      "C5": 3,
+      "C6": 7,
+      "C7": 15,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 276,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "3077": {
+      "C3": 1,
+      "C4": 1,
+      "C5": 3,
+      "C6": 7,
+      "C7": 15,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 275,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 1.045055393883592e-06
+   },
+   {
+    "census_indices": [
+     2209,
+     2226
+    ],
+    "graph6": [
+     "O??CA?_ccoGo[?BO@c@B?",
+     "O??CA?_ccWIOY?BOAc@B?"
+    ],
+    "differing_invariants": [
+     "wiener"
+    ],
+    "invariants": {
+     "2209": {
+      "C3": 2,
+      "C4": 2,
+      "C5": 3,
+      "C6": 4,
+      "C7": 11,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 289,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "2226": {
+      "C3": 2,
+      "C4": 2,
+      "C5": 3,
+      "C6": 4,
+      "C7": 11,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 290,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 2.646593732169826e-07
+   },
+   {
+    "census_indices": [
+     2276,
+     3578
+    ],
+    "graph6": [
+     "O??CA?_ceCH_BOM?AK@H?",
+     "O??CAAAKECL?HOBOBC?g_"
+    ],
+    "differing_invariants": [
+     "wiener"
+    ],
+    "invariants": {
+     "2276": {
+      "C3": 3,
+      "C4": 2,
+      "C5": 3,
+      "C6": 5,
+      "C7": 8,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 302,
+      "node_connectivity": 2,
+      "edge_connectivity": 2,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     },
+     "3578": {
+      "C3": 3,
+      "C4": 2,
+      "C5": 3,
+      "C6": 5,
+      "C7": 8,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 304,
+      "node_connectivity": 2,
+      "edge_connectivity": 2,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     }
+    },
+    "min_quic_l1_separation": 1.257999496068229e-06
+   },
+   {
+    "census_indices": [
+     2428,
+     2431
+    ],
+    "graph6": [
+     "O??CAA_KE@@IR?E_Co?i?",
+     "O??CAA_KE@@IP_E_D_?i?"
+    ],
+    "differing_invariants": [],
+    "invariants": {
+     "2428": {
+      "C3": 1,
+      "C4": 0,
+      "C5": 5,
+      "C6": 8,
+      "C7": 10,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 273,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "2431": {
+      "C3": 1,
+      "C4": 0,
+      "C5": 5,
+      "C6": 8,
+      "C7": 10,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 273,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 2.7191847611964612e-08
+   },
+   {
+    "census_indices": [
+     2693,
+     3900
+    ],
+    "graph6": [
+     "O??CAA_EE@I_K_HO@W?W_",
+     "O?AA@?OaE?m?J?Ao?s?b?"
+    ],
+    "differing_invariants": [
+     "aut_order"
+    ],
+    "invariants": {
+     "2693": {
+      "C3": 2,
+      "C4": 0,
+      "C5": 3,
+      "C6": 8,
+      "C7": 13,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 281,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "3900": {
+      "C3": 2,
+      "C4": 0,
+      "C5": 3,
+      "C6": 8,
+      "C7": 13,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 281,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     }
+    },
+    "min_quic_l1_separation": 5.09189308188551e-08
+   },
+   {
+    "census_indices": [
+     3047,
+     3520
+    ],
+    "graph6": [
+     "O??CA?oID@OoQ_F?AIAI?",
+     "O??CA?oB@PR?w?@cAgAE?"
+    ],
+    "differing_invariants": [
+     "wiener",
+     "aut_order"
+    ],
+    "invariants": {
+     "3047": {
+      "C3": 3,
+      "C4": 0,
+      "C5": 2,
+      "C6": 7,
+      "C7": 11,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 288,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     },
+     "3520": {
+      "C3": 3,
+      "C4": 0,
+      "C5": 2,
+      "C6": 7,
+      "C7": 11,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 287,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 7.069246894552824e-07
+   },
+   {
+    "census_indices": [
+     3058,
+     3799
+    ],
+    "graph6": [
+     "O??CA?oID@WAT?E_@g?M?",
+     "O?AA@?OaEGKAL?E_@K?F?"
+    ],
+    "differing_invariants": [],
+    "invariants": {
+     "3058": {
+      "C3": 1,
+      "C4": 1,
+      "C5": 3,
+      "C6": 10,
+      "C7": 11,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 280,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     },
+     "3799": {
+      "C3": 1,
+      "C4": 1,
+      "C5": 3,
+      "C6": 10,
+      "C7": 11,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 280,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     }
+    },
+    "min_quic_l1_separation": 1.0811024359961147e-06
+   },
+   {
+    "census_indices": [
+     3090,
+     3525
+    ],
+    "graph6": [
+     "O??CA?oIC`B_@cX?OWAQ?",
+     "O??CA?oB@PR?`_T?CWAA_"
+    ],
+    "differing_invariants": [
+     "wiener"
+    ],
+    "invariants": {
+     "3090": {
+      "C3": 3,
+      "C4": 0,
+      "C5": 2,
+      "C6": 5,
+      "C7": 10,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 283,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 4
+     },
+     "3525": {
+      "C3": 3,
+      "C4": 0,
+      "C5": 2,
+      "C6": 5,
+      "C7": 10,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 281,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 4
+     }
+    },
+    "min_quic_l1_separation": 1.3571034450437285e-06
+   },
+   {
+    "census_indices": [
+     3162,
+     3248
+    ],
+    "graph6": [
+     "O??CA?oICH[?R?ECAW?M?",
+     "O??CA?oI?X[?Q_c_Ag?I_"
+    ],
+    "differing_invariants": [],
+    "invariants": {
+     "3162": {
+      "C3": 1,
+      "C4": 1,
+      "C5": 4,
+      "C6": 6,
+      "C7": 13,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 277,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "3248": {
+      "C3": 1,
+      "C4": 1,
+      "C5": 4,
+      "C6": 6,
+      "C7": 13,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 277,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 2.640785067877725e-07
+   },
+   {
+    "census_indices": [
+     3514,
+     3515
+    ],
+    "graph6": [
+     "O??CA?oB@PT?`_T?AIAE?",
+     "O??CA?oB@PT?`_SCAWAI?"
+    ],
+    "differing_invariants": [
+     "wiener"
+    ],
+    "invariants": {
+     "3514": {
+      "C3": 3,
+      "C4": 1,
+      "C5": 3,
+      "C6": 5,
+      "C7": 8,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 296,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "3515": {
+      "C3": 3,
+      "C4": 1,
+      "C5": 3,
+      "C6": 5,
+      "C7": 8,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 295,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 6.723422772835421e-07
+   },
+   {
+    "census_indices": [
+     3602,
+     4005
+    ],
+    "graph6": [
+     "O??CAAAKECDCHOBOJ??g_",
+     "O?AA@?O`EGDA[?Ao@S?b?"
+    ],
+    "differing_invariants": [],
+    "invariants": {
+     "3602": {
+      "C3": 3,
+      "C4": 2,
+      "C5": 2,
+      "C6": 5,
+      "C7": 11,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 300,
+      "node_connectivity": 2,
+      "edge_connectivity": 2,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     },
+     "4005": {
+      "C3": 3,
+      "C4": 2,
+      "C5": 2,
+      "C6": 5,
+      "C7": 11,
+      "girth": 3,
+      "diameter": 5,
+      "radius": 3,
+      "wiener": 300,
+      "node_connectivity": 2,
+      "edge_connectivity": 2,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     }
+    },
+    "min_quic_l1_separation": 9.45370645099231e-08
+   },
+   {
+    "census_indices": [
+     3672,
+     3689
+    ],
+    "graph6": [
+     "O?AA@?OaF?J?AK@gAW@I?",
+     "O?AA@?OaF?IAHOB_?[?p?"
+    ],
+    "differing_invariants": [
+     "wiener",
+     "aut_order"
+    ],
+    "invariants": {
+     "3672": {
+      "C3": 2,
+      "C4": 0,
+      "C5": 4,
+      "C6": 8,
+      "C7": 8,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 285,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 2
+     },
+     "3689": {
+      "C3": 2,
+      "C4": 0,
+      "C5": 4,
+      "C6": 8,
+      "C7": 8,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 286,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 4
+     }
+    },
+    "min_quic_l1_separation": 2.237594980118685e-07
+   },
+   {
+    "census_indices": [
+     3693,
+     3902
+    ],
+    "graph6": [
+     "O?AA@?OaF?IAGoB_?k?p?",
+     "O?AA@?OaE?m?I_@o@c?b?"
+    ],
+    "differing_invariants": [
+     "wiener"
+    ],
+    "invariants": {
+     "3693": {
+      "C3": 2,
+      "C4": 0,
+      "C5": 4,
+      "C6": 7,
+      "C7": 9,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 283,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     },
+     "3902": {
+      "C3": 2,
+      "C4": 0,
+      "C5": 4,
+      "C6": 7,
+      "C7": 9,
+      "girth": 3,
+      "diameter": 4,
+      "radius": 3,
+      "wiener": 282,
+      "node_connectivity": 3,
+      "edge_connectivity": 3,
+      "matching_number": 8,
+      "clique_number": 3,
+      "aut_order": 1
+     }
+    },
+    "min_quic_l1_separation": 2.017075592005053e-07
+   }
+  ]
+ }
+}
